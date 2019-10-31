@@ -16,7 +16,7 @@
     "mysql": "^2.15.0",
     "mysql2": "^1.5.2",
     "nodemon": "^1.17.2",
-    "sequelize": "^4.33.4"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "eslint-config-standard": "^11.0.0",
